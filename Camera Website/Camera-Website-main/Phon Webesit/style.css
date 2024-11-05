@@ -1,0 +1,250 @@
+
+body{
+    padding: 20px;
+    height: 1300px;
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+p{
+    color: aliceblue;
+    letter-spacing: 1px;
+    font-family: "Kanit", serif;
+    width: 200px;
+}
+
+.PixelsCo{
+    font-size: 40px;
+    width: 100%;
+    font-family: Poppins;
+    display: flex;
+    justify-content: left;
+    height: 45px;
+    width: 100%;
+}
+
+.AllContainer{
+    background-color: rgb(52, 52, 52);
+    width: 600px;
+    padding: 30px;
+}
+
+.headerline {
+    display: flex;
+
+}
+
+.shoppingbag {
+    display: flex;
+    top: 52px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 16%;
+    left: 65%;
+}
+
+.collection1{
+    display: flex;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #474747;
+    border-radius: 18px;
+    background-image: linear-gradient(to right,#4e4e4e,#252525 );
+
+}
+
+.collection2{
+    display: flex;
+}
+
+.sec{
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: none;
+}
+
+.can{
+    padding-right: none;
+    width: 150px;
+}
+
+.new{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0;
+    flex-wrap: wrap;
+    font-family: Poppins;
+}
+
+.explorebutt{
+    outline: none;
+    font-weight: 400;
+    margin-top: 30px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    border-color: rgb(124, 124, 124);
+    height: 50px;
+    width: 150px;
+    color: #ffffff;
+    background-color: #474747;
+    background-image: linear-gradient(to right,#474747, #6e6e6e 30%,#474747 );
+    border-radius: 100px;
+    border-color: rgb(90, 90, 90);
+    box-shadow: 7px 7px 10px rgb(46, 46, 46);
+    font-family: Poppins;
+}
+
+.vintageimg{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 300px;
+    padding-left: 20px;
+}
+
+.canoncamera{
+    width: 250px;
+}
+
+.vintagecamera{
+    width: 350px;
+}
+
+.canon{
+    margin: 0;
+    width: 137px;
+    padding: 5px;
+    font-family: Poppins;
+}
+
+.arrow{
+    width: 16px;
+    height: 16px;
+    margin-top: 6px;
+    margin-left: 9px;
+}
+
+.arrowcontainer {
+    display: flex;
+    justify-content: right;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.arrowbutt {
+    background-image: linear-gradient(to left,#4f4f4f ,#383838);
+    border: transparent;
+    border-radius: 5px;
+    height: 30px;
+    width: 34px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.pictext {
+    display: flex;
+    flex-direction: row;
+}
+
+.sony{
+    margin: 0;
+    width: 174px;
+    padding: 5px;
+    font-family: Poppins;
+}
+
+.sonycamera{
+    width: 250px;
+    margin-top: 40px;
+    margin-bottom: 68px;
+}
+
+.sonycontainer{
+    width: 250px;
+    border-radius: 30px;
+    padding: 20px;
+    background-image: linear-gradient(to left,#3a3939 ,#272727);
+    margin-bottom: 40px;    
+}
+.canoncontainer{
+    width: 250px;
+    border-radius: 30px;
+    padding: 20px;
+    background-image: linear-gradient(to left,#3a3939 ,#272727);
+    margin-right: 4%;
+    margin-bottom: 40px;
+}
+
+.sony2camera{
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 68px;
+}
+
+.canon2camera{
+    width: 250px;
+    margin-bottom: 68px;
+}
+
+.foot {
+    background-color: rgb(43, 42, 42);
+    height: 180px;
+    width: 660px;
+    border-radius: 18px;
+    margin-top: 63%;
+    display: flex;
+    position: absolute;
+}
+
+.footbutt {
+    background-color: transparent;
+    border: transparent;
+}
+.bookmark {
+    background-color: transparent;
+    border: transparent;
+}
+.notif {
+    background-color: transparent;
+    border: transparent;
+}
+.account {
+    background-color: transparent;
+    border: transparent;
+}
+
+.vectorbutt {
+    width: 40px;
+    margin-left: 145px;
+    margin-top: 70px;
+
+}
+
+.vector {
+    position: absolute;
+    bottom: 129px;
+    left: 115px;
+}
+
+.bookbutt {
+    width: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.notifbutt {
+    width: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.accountbutt {
+    width: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
